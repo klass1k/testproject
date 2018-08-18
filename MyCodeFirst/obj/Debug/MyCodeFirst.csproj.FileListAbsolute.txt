@@ -1,1 +1,10 @@
 D:\newTestProjects\MyCodeFirst\MyCodeFirst\bin\Debug\MyCodeFirst.exe.config
+D:\newTestProjects\MyCodeFirst\MyCodeFirst\bin\Debug\MyCodeFirst.exe
+D:\newTestProjects\MyCodeFirst\MyCodeFirst\bin\Debug\MyCodeFirst.pdb
+D:\newTestProjects\MyCodeFirst\MyCodeFirst\bin\Debug\EntityFramework.dll
+D:\newTestProjects\MyCodeFirst\MyCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\newTestProjects\MyCodeFirst\MyCodeFirst\bin\Debug\EntityFramework.xml
+D:\newTestProjects\MyCodeFirst\MyCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\newTestProjects\MyCodeFirst\MyCodeFirst\obj\Debug\MyCodeFirst.csprojResolveAssemblyReference.cache
+D:\newTestProjects\MyCodeFirst\MyCodeFirst\obj\Debug\MyCodeFirst.exe
+D:\newTestProjects\MyCodeFirst\MyCodeFirst\obj\Debug\MyCodeFirst.pdb
